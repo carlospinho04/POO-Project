@@ -1,0 +1,17 @@
+Data 17:10 13/12/2015
+
+Utilizadores
+dinis dinis (admin)
+carlos carlos (admin)
+afonso afonso (premium)
+daniel daniel (premium)
+joel joel (regular)
+simao simao (regular)
+
+Autocarros
+12-VV-40
+14-RR-29
+
+Viagens
+1- Pombal->Coimbra, 20euros, 12:30 4/3/2016, 45min, 12-VV-40 , 10 lugares
+2- Coimbra->Penafiel, 30euros, 17:50 20/5/2016, 100min, 12-VV-40 14-RR-29 , 10 lugares
